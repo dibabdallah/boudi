@@ -6,6 +6,6 @@ public class AppBoudi {
 		System.out.println("boudi developp");
 		System.out.println("developp 15");
 		System.out.println("*****");
-	}
+	}}
 
 
