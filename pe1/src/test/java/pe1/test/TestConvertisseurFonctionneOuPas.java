@@ -1,15 +1,20 @@
 package pe1.test;
 
 import org.junit.Assert;
-import org.junit.Before;
+
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import pe1.Convertisseur;
 
 // @Test et @ before necessite <dependency> junit dans pom.xml
+/*  les classes de test sont par defaut déclenchés par maven 
+ * si leurs noms commencent ou termine par test
+ * 
+ * */
 
-public class TestConvertisseur {
+
+public class TestConvertisseurFonctionneOuPas {
 	private static Convertisseur convertisseur;// a tester
 	
 	@BeforeClass
