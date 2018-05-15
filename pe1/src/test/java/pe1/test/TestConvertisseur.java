@@ -13,6 +13,7 @@ public class TestConvertisseur {
 	
 	@Before
 	public void init() {
+		System.out.println("init appelé");
 		convertisseur= new Convertisseur();
 	}
 	
