@@ -7,6 +7,6 @@ public class Convertisseur {
 	}
 	
 	public double FrancToEuro(double montantEnFranc) {
-		return 0.0;
+		return montantEnFranc/6.55957;
 	}
 }

@@ -21,6 +21,11 @@ public class TestConvertisseur {
 		double sommeEnFranc = convertisseur.euroToFranc(15);//montantEnEuro*6.55957
 		Assert.assertEquals(sommeEnFranc, 98.0, 2.0);
 	}
-
+	
+	@Test
+	public void testFrancToEuro() {
+		double sommeEnEuro = convertisseur.FrancToEuro(99);//montantEnFranc/6.55957
+		Assert.assertEquals(sommeEnEuro, 15.0, 0.5);
+	}
 	
 }
