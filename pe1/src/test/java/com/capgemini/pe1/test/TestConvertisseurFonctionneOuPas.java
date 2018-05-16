@@ -31,7 +31,7 @@ public class TestConvertisseurFonctionneOuPas {
 	
 	@Test
 	public void testFrancToEuro() {
-		double sommeEnEuro = convertisseur.FrancToEuro(99);//montantEnFranc/6.55957
+		double sommeEnEuro = convertisseur.francToEuro(99);//montantEnFranc/6.55957
 		Assert.assertEquals(sommeEnEuro, 15.0, 0.5);
 	}
 	
