@@ -11,6 +11,18 @@
      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
+	<scm>
+
+    <connection>scm:git:https://github.com/dibabdallah/boudi</connection>
+
+    <developerConnection>scm:git:https://github.com/dibabdallah/boudi</developerConnection>
+
+    <url>https://github.com/dibabdallah/boudi</url>
+
+    <tag>HEAD</tag>
+
+  </scm>
+  
  <modules>
            <module>pe1</module>
 	  <!-- <module>....</module> -->
