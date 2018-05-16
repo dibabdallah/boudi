@@ -5,4 +5,4 @@
  * @author Administrateur
  *
  */
-package pe1.test;
+package com.capgemini.pe1.test;

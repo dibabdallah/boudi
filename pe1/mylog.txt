@@ -1,0 +1,3 @@
+2018-05-16 12:38:55,269 INFO main com.capgemini.pe1.AppBoudi - boudi developp
+2018-05-16 12:38:55,269 DEBUG main com.capgemini.pe1.AppBoudi - developp 15
+2018-05-16 12:38:55,269 DEBUG main com.capgemini.pe1.AppBoudi - *****

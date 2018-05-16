@@ -1,11 +1,11 @@
-package pe1.test;
+package com.capgemini.pe1.test;
 
 import org.junit.Assert;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import pe1.Convertisseur;
+import com.capgemini.pe1.Convertisseur;
 
 // @Test et @ before necessite <dependency> junit dans pom.xml
 /*  les classes de test sont par defaut déclenchés par maven 
